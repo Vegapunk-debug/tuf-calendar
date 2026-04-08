@@ -6,7 +6,7 @@
 
 An interactive, responsive wall calendar component built for the **takeUforward** frontend engineering challenge. It features a physical calendar aesthetic, dynamic date range selection, and persistent notes using client-side storage.
 
- **[Live Demo](#)** | 🎥 **[Video Walkthrough](#)** *(Note: Update links before final submission)*
+ **[Live Demo](#)** | **[Video Walkthrough](#)** *(Note: Update links before final submission)*
 
 ---
 
@@ -32,5 +32,5 @@ Follow these steps to run the project on your local machine:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/tuf-interactive-calendar.git](https://github.com/your-username/tuf-interactive-calendar.git)
+git clone https://github.com/Vegapunk-debug/tuf-calendar.git
 cd tuf-interactive-calendar
